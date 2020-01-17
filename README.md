@@ -20,3 +20,8 @@ No finaliza, aun cuando no hay interacción con el producto, hay "sentimeintos, 
 Es parte de UX pero no lo es todo. En una interfaz, el diseño de la misma puede influir en la UX. Más son dos disciplinas distintas. 
 
 [Video Redomendado](https://www.youtube.com/watch?v=Fbj1cXP-hns) 
+[Libro de Don Norman] (http://kowym.com/wp-content/uploads/2018/08/The-Design-of-Everyday-Things-Don-Norman.pdf)
+
+## Creación y planeación de un producto Digital 
+
+Quén es
