@@ -50,24 +50,41 @@ Cómo bocetar?
   - Inicio y final de nuestro flujo (un diagrama de flujo que nos muestre todo el producto en su jouney)
  
 ## Foundation y principios del diseño de productos digitales
-Los foundation son la anatomia, lo fundamental, el estilo (colores, tipografia, border radios, espaciado)
-  Los colores 
-    - 5 colores y cada color con 4 opciones (mas fuerte, mas claro, mas obscuro, mas debil) 
-    - Material Design hace colores base en primarios y secundarios con gradientes del 900 al 50 
-    Material Design [Tool Color](https://material.io/resources/color/#!/?view.left=0&view.right=0)
-  Tipografia
-    Es parte de la personalidad de la marca, es funcional? 
-    Puede ser gradual o tipografia según sistema
-    [Google Fonts](https://fonts.google.com/)
-  Espaciado
-    margin? pading? altura de texto? da orden y ritmo
-Principios
+### Los foundation son la anatomia, lo fundamental, el estilo (colores, tipografia, border radios, espaciado)
+  Los colores:
+    - 5 colores y cada color con 4 opciones (mas fuerte, mas claro, mas obscuro, mas debil).
+    - Material Design hace colores base en primarios y secundarios con gradientes del 900 al 50.
+    Material Design [Tool Color](https://material.io/resources/color/#!/?view.left=0&view.right=0).
+  Tipografia:
+    Es parte de la personalidad de la marca, es funcional?.
+    Puede ser gradual o tipografia según sistema.
+    [Google Fonts](https://fonts.google.com/).
+  Espaciado:
+    margin? pading? altura de texto? da orden y ritmo.
+### Principios:
   - Forgiveness: Que pueda deshacer sus acciones cuando se equivoca.
   - Direct Manipulation: Que el usuario sienta que tiene el control.
   - WYSIWYG: Mostrar de manera específica lo que tiene el sistema, sin trabas.
   - Feedback and Dialog: Comunicar al usuario lo que está sucediendo.
-  Principios de diseño de [Apple](https://developer.apple.com/design/human-interface-guidelines/)
-  [Principios de Diseño](https://principles.design/)
+ Principios de diseño de [Apple](https://developer.apple.com/design/human-interface-guidelines/)
+ [Principios de Diseño](https://principles.design/)
+
+
+### Definición de Colores
+  - Primarios/Acción:
+  Tres colores.
+  - Secundarios:
+  Tres colores.
+  - Blaco y Negro:
+  No totalmente negro ni totalmente blanco.
+  - Positivo y Negativo:
+  Verde Rojo.
+  - Fondos:
+  Background.
+Herramienta recomendada [XD](https://www.adobe.com/products/xd.html)
+
+
+
 
 
 
