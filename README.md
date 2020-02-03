@@ -66,11 +66,13 @@ Cómo bocetar?
   - Direct Manipulation: Que el usuario sienta que tiene el control.
   - WYSIWYG: Mostrar de manera específica lo que tiene el sistema, sin trabas.
   - Feedback and Dialog: Comunicar al usuario lo que está sucediendo.
- Principios de diseño de [Apple](https://developer.apple.com/design/human-interface-guidelines/)
- [Principios de Diseño](https://principles.design/)
+
+Principios de diseño de [Apple](https://developer.apple.com/design/human-interface-guidelines/).
+[Principios de Diseño](https://principles.design/).
 
 
-### Definición de Colores
+### Definición de Fundation.
+#### Colores: 
   - Primarios/Acción:
   Tres colores.
   - Secundarios:
@@ -81,8 +83,13 @@ Cómo bocetar?
   Verde Rojo.
   - Fondos:
   Background.
+  - Textos:
+  Escalas de grises.
 Herramienta recomendada [XD](https://www.adobe.com/products/xd.html)
-
+#### Tipografias: 
+  - H1, H2, H3 (tipografia y peso).
+  - Textos ordinarios (podemos usar otra, Open Sans recomendada).
+  - Texto secundarios.
 
 
 
