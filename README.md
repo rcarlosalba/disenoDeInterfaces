@@ -72,6 +72,7 @@ Principios de diseño de [Apple](https://developer.apple.com/design/human-interf
 
 
 ### Definición de Fundation.
+Nos ponen en regla, nos permiten no salirnos de lo que queremos hacer.
 #### Colores: 
   - Primarios/Acción:
   Tres colores.
@@ -90,6 +91,95 @@ Herramienta recomendada [XD](https://www.adobe.com/products/xd.html)
   - H1, H2, H3 (tipografia y peso).
   - Textos ordinarios (podemos usar otra, Open Sans recomendada).
   - Texto secundarios.
+
+## Arquitectura del producto (Mapa o flujo de información)
+  1. tenemos que resilver un probelma 
+  idealmente con las herramientas existentes (no inventar el agua azucarada)
+  pero a la vez innovar en lo existente
+  2. Flujo de Usuario
+  3. Tecnologia en software como en hardware // que existe y cual es el acceso
+  4. Limites: la gran idea, la idea realista, la idea pequeña. 
+    El camino de la idea: todo lo que puede ser y una gran contenedora
+  5. Creen en tu idea: pero no demasiado, prueba, juzga, compara, itera
+
+## Mapa del flujo del producto
+Primero pedido luego usuario para mejorar la experiencia
+  -. Repartido
+    Lista de Entrega
+      Detalle de Usuario
+        Dirección 
+        Teléfono
+      Detalle de Pedido 
+  -. Usuario
+    Ayuda
+    Términos y condiciones
+    Pedido
+      Qué desea? 
+        Pizza? 
+        Combo?
+      Tipo de Masa: 
+        Original 
+        Orilla de Queso
+      Ingredientes:
+        Jamón
+        Peperoni
+      Extras
+        Papas
+        Palitos de queso
+      Login
+        Social Media, Google 
+        Obtenemos datos básicos del usuario
+      Resumen del pedido
+        Hora de pedido 
+        Entrega estimada
+        Responsable
+        Total $
+        Llamar
+      Forma de Pago
+      Entrega de Pizza
+  -. Admin
+    Lista de Pedidos
+      Detalles del usuario
+      Detalle del pedido 
+      Repartidor
+      Metodo de pago
+
+## Wireframes
+  Se basa es: 
+    Arquitectura
+    Jerarquía
+      Qué elementos osn más importantes? Tamaño, color, posición sirven para definir
+    Estructura
+      Define elementos y sistematización (nombre, forma, que papel hace en la app)
+    Componenetes
+      Reutilizables y estándares
+    Foundations
+      Los lineamientos
+
+Es estático solo define la arquitectura visual y de la App
+Debe mantenerse lo más simple posible, blanco y negro
+Hay que estar pendiente del: 
+  Flujo 
+  Estado 
+  Retroalimentacion
+El wireframe es simple pero busca algo visualmente agradable
+Tienen resolución 
+  Low
+  Medium
+  High
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
