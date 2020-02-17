@@ -145,28 +145,26 @@ Primero pedido luego usuario para mejorar la experiencia
       Metodo de pago
 
 ## Wireframes
-  Se basa es: 
-    Arquitectura
-    Jerarquía
-      Qué elementos osn más importantes? Tamaño, color, posición sirven para definir
-    Estructura
-      Define elementos y sistematización (nombre, forma, que papel hace en la app)
-    Componenetes
-      Reutilizables y estándares
-    Foundations
-      Los lineamientos
+  Se basa en Arquitectura de la información:
+    - Jerarquía:
+      Qué elementos osn más importantes? Tamaño, color, posición sirven para definir.
+    - Estructura:
+      Define elementos y sistematización (nombre, forma, que papel hace en la app).
+    - Componenetes:
+      Reutilizables y estándares.
+    - Foundations:
+      Los lineamientos.
 
-Es estático solo define la arquitectura visual y de la App
-Debe mantenerse lo más simple posible, blanco y negro
+Es estático solo define la arquitectura visual y de la App. Debe mantenerse lo más simple posible, blanco y negro
 Hay que estar pendiente del: 
-  Flujo 
-  Estado 
-  Retroalimentacion
-El wireframe es simple pero busca algo visualmente agradable
-Tienen resolución 
-  Low
-  Medium
-  High
+  -. Flujo.
+  -. Estado.
+  -. Retroalimentacion.
+El wireframe es simple pero busca algo visualmente agradable.
+Tienen resolución:
+  - Low.
+  - Medium.
+  - High.
 
 
 
