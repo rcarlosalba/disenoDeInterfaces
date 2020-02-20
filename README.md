@@ -190,14 +190,29 @@ Deben tener:
 -. Exterior, experimentos y andamiaje personal. 
 ¿Qué hace visualmente única a mi plataforma?
 
+## Microinteracciones
 
+Se basan la interaccion que tiene la persona con el software: 
+- Acción.
+- Creación. 
+- Borrado. 
+- Añadir.
+- Actualizar.
 
+### Fases:
+- Trigges o diparadores (click, tap).
+- Reglas (que tiene que pasar para ver la animacion).
+- retroalimentación(Te respondo con lo que haz hecho).
+- bucles (es una acción repetitiva y/o de progreso).
 
+## Jerarquia Visual 
+- Posición. 
+- Tamaño. 
+- Color.
 
-
-
-
-
+## Unidades de espaciado
+La unidad mínima del click es 16px*16px.
+Se pueden usar medidas de enteras o medias. 
 
 
 
