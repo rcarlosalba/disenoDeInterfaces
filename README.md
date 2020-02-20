@@ -167,8 +167,28 @@ Tienen resolución:
   - High.
 
 
+## Patrones y Componentes
 
+### Patrones UI
+-. Son soluciones más comunes para funcionalidad dentro de una interfaz. Es una estrucura comun (conocida) ya definida para una funcionalidad especifica.
 
+### Componente
+-. los componenetes hacen funciones pequelas dentro de un sistema, mismas que pueden ser replicadas (como las funciones en programación). 
+Deben tener: 
+  Nombre (formulario).
+  Descripción (para que sirve).
+  Comportamiento (Qué pasa si? si no esta bien escrito el mail, si hay error en la base de datos).
+  Estados (activo, inactivo).
+  
+**Wireframe: simple, blanco y negro. Mockup es con colores sombras, tipografia. Prototipo puede ser de wireframe y/o mockuop pero es animado**
+
+### Referencias: 
+-. moodboard (ideas, conceptos, palabras, referencias de imagenes, peliculas, música).
+-. Watch.
+-. Like.
+-. Repeat.
+-. Exterior, experimentos y andamiaje personal. 
+¿Qué hace visualmente única a mi plataforma?
 
 
 
