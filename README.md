@@ -214,6 +214,37 @@ Se basan la interaccion que tiene la persona con el software:
 La unidad mínima del click es 16px*16px.
 Se pueden usar medidas de enteras o medias. 
 
+## Evaluación 
+se puede evaluar cada componente o la app por: 
+- vistas. 
+- clicks (taps).
+- Tiempo de uso.
+- Cantidad de usuarios.
+
+Regularmente esto lo lleva el equipo de programación. No es necesario usar varios parametros de meidicón pude ser uno a la vez y mejorar, evaluar e iterar. (Metricas, metricas!)
+
+Diseño -> Tracking -> Programación.
+
+## Construyendo IU Kit
+Crear un Starter que servirá para que otros diseñadores creen a partir de este. 
+Es necesario identificar, colores, letras, imágenes. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
